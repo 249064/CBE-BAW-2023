@@ -65,7 +65,7 @@ curl -i -s -k -X $'POST' \
 ```
 
 #### Efekt działania:
-![alt text](https://github.com/249064/CBE-BAW-2023/raw/main/res/XSS_Stored_med.png "Po wykonaniu odpowiedniego zapytania następuje X")
+![alt text](https://github.com/249064/CBE-BAW-2023/raw/main/res/XSS_Stored_med.png "Po wykonaniu odpowiedniego zapytania następuje zamieszczenie komentarza ze złośliwym kodem w nazwie komentującego.")
 
 Do obejścia zabezpieczenia użyto tagu "<img>" i wykorzystano brak wszystkich filtrów w przypadku parametru txtName. Po wykonaniu odpowiedniego zapytania na stronie ukazuje się szkodliwy komentarz, dzięki któremu przeglądarka użytkowników wchodzących na podatną stronę wykona zamieszczony w "Name" komentarza kod.
 
@@ -116,7 +116,7 @@ curl -i -s -k -X $'POST' \
 ```
 
 #### Efekt działania:
-![alt text](https://github.com/249064/CBE-BAW-2023/raw/main/res/XSS_Stored_hard.png "Po wykonaniu odpowiedniego zapytania następuje X")
+![alt text](https://github.com/249064/CBE-BAW-2023/raw/main/res/XSS_Stored_hard.png "Po wykonaniu odpowiedniego zapytania następuje zamieszczenie komentarza ze złośliwym kodem w nazwie komentującego.")
 
 <br/>
 
