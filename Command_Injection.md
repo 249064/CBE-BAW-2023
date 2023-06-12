@@ -15,12 +15,12 @@ plikacje powinny unikać uruchamiania poleceń systemowych, jeśli to możliwe. 
 </blockquote>
 
 ## DVWA labs
-- [DVWA X #2 - Medium](#dvwa-Command-Injection-1---medium)
-- [DVWA X #3 - High](#dvwa-Command-Injection-2---high)
+- [DVWA Command Injection #1 - Medium](#dvwa-Command-Injection-1---medium)
+- [DVWA Command Injection #2 - High](#dvwa-Command-Injection-2---high)
 
 <br/>
 
-## DVWA X #1 - Medium
+## DVWA Command Injection #1 - Medium
 Na średnim poziomie trudności musimy mieć na uwadze następujące cechy laboratorium:
 * Filtrowanie znaków "&&" oraz ";"
 
@@ -74,7 +74,7 @@ Po wykonaniu odpowiedniego zapytania następuje wykonanie komendy "whoami", co w
 <br/>
 <br/>
 
-## DVWA X #2 - High
+## DVWA Command Injection #2 - High
 Na trudnym poziomie trudności musimy mieć na uwadze następujące cechy laboratorium:
 * Filtrowanie dużo większej ilości znaków/ciągów znaków związanych z syntax'em powłoki
 
