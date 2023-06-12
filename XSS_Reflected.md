@@ -54,7 +54,7 @@ curl -i -s -k -X $'GET' -H $'Host: 10.10.236.56' -H $'User-Agent: Mozilla/5.0 (X
 #### Efekt działania:
 ![alt text](https://github.com/249064/CBE-BAW-2023/raw/main/res/XSS_Reflected_med.png "Po wykonaniu odpowiedniego zapytania następuje ujawnienie cookies użytkownika.")
 
-Do obejścia zabezpieczenia wykorzystano tag <img> zamiast script. Po wykonaniu odpowiedniego zapytania następuje wykonanie kodu w przeglądarce użytkownika i ujawnienie cookies.
+Do obejścia zabezpieczenia wykorzystano tag `<img>` zamiast script. Po wykonaniu odpowiedniego zapytania następuje wykonanie kodu w przeglądarce użytkownika i ujawnienie cookies.
 <br/>
 <br/>
 
@@ -89,4 +89,4 @@ curl -i -s -k -X $'GET' \ -H $'Host: 10.10.236.56' -H $'User-Agent: Mozilla/5.0 
 ![alt text](https://github.com/249064/CBE-BAW-2023/raw/main/res/XSS_Reflected_high.png "Po wykonaniu odpowiedniego zapytania następuje ujawnienie cookies użytkownika.")
 <br/>
 
-Do obejścia zabezpieczenia wykorzystano tag <img> zamiast script. Po wykonaniu odpowiedniego zapytania następuje wykonanie kodu w przeglądarce użytkownika i ujawnienie cookies.
+Do obejścia zabezpieczenia wykorzystano tag `<img>` zamiast script. Po wykonaniu odpowiedniego zapytania następuje wykonanie kodu w przeglądarce użytkownika i ujawnienie cookies.
