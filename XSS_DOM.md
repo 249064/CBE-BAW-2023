@@ -16,9 +16,9 @@ Najskuteczniejszym sposobem na usunięcie podatności DOM-Based XSS jest prawid�
 </blockquote>
 
 ## DVWA labs
-- [DVWA DOM-based XSS #2 - Medium](#dvwa-DOM-XSS-1---medium)
+- [DVWA DOM-based XSS #1 - Medium](#dvwa-DOM-XSS-1---medium)
 
-- [DVWA DOM-based XSS #3 - High](#dvwa-DOM-XSS-2---high)
+- [DVWA DOM-based XSS #2 - High](#dvwa-DOM-XSS-2---high)
 
 <br/>
 
