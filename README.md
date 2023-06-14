@@ -1,4 +1,5 @@
 # Damn Vulnerable Web Application
+DVWA (Damn Vulnerable Web Application) to aplikacja internetowa stworzona specjalnie w celu symulowania podatności i słabości typowych dla aplikacji internetowych. DVWA służy jako platforma do nauki i testowania umiejętności oraz narzędzi związanych z penetrowaniem, audytem bezpieczeństwa i zarządzaniem ryzykiem w środowisku webowym. Dzięki swojej podatności na różne ataki, takie jak wstrzykiwanie SQL, File inclusion, czy ataki XSS, DVWA umożliwia użytkownikom praktyczne zrozumienie zagrożeń związanych z bezpieczeństwem aplikacji webowych. Dostęp do tych podatności jest kontrolowany, co pozwala użytkownikom na rozwijanie umiejętności w zakresie ochrony aplikacji i skutecznego testowania bezpieczeństwa aplikacji webowych.
 
 ## Cel i przeznaczenie projektu
 Celem projektu jest znalezienie oraz exploitacja jak największej liczby podatności w aplikacji webowej "Damn Vulnerable Web Application". Stworzone zostały opisy znalezionych podatności wraz z przykładowymi technikami ich eksploitacji. Część opisów zawiera również uniwersalne skrypty umożliwiające automatyczną eksploitację.
