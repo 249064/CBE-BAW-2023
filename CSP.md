@@ -69,7 +69,7 @@ curl -i -s -k -X $'POST' \
 ```
 
 #### Efekt działania skryptu:
-![image](https://github.com/Jswierczynsk/sandbox/assets/133172137/4ed1eec7-f776-4291-a0ce-ad1ec1e765e1)
+![image](https://github.com/249064/CBE-BAW-2023/assets/133172137/1f49a2cb-a262-4a14-acbe-7407f4f3c8d9)
 
 Kod z pliku został wykonany.
 <br/>
@@ -121,7 +121,7 @@ curl -i -s -k -X $'GET' \
 ```
 
 #### Efekt działania skryptu:
-![image](https://github.com/Jswierczynsk/sandbox/assets/133172137/cfca90a2-e322-4807-b987-7ad884d5e97c)
+![image](https://github.com/249064/CBE-BAW-2023/assets/133172137/04aa4662-d8df-4acd-9812-6013c6a63c78)
 
 Przekazany kod został uruchomiony mimo wykorzystania CSP.
 <br/>
