@@ -76,7 +76,7 @@ curl -i -s -k -X $'POST' \
 ```
 
 #### Efekt działania skryptu:
-![image](https://github.com/Jswierczynsk/sandbox/assets/133172137/42f23478-e605-4241-8c32-896ebf9fd264)
+![image](https://github.com/249064/CBE-BAW-2023/assets/133172137/a3230b00-9830-4dc1-8f61-25ace90cdd1d)
 
 Otrzymane hashe można przyporządkować do konkretnych haseł z użyciem bruteforce bądź tablic tęczowych.
 <br/>
@@ -130,7 +130,7 @@ curl -i -s -k -X $'POST' \
 ```
 
 #### Efekt działania skryptu:
-![image](https://github.com/Jswierczynsk/sandbox/assets/133172137/fbbebc42-f1ef-43c5-885f-3330dc2bc6a6)
+![image](https://github.com/249064/CBE-BAW-2023/assets/133172137/1be271e5-c021-4fae-80aa-d07c4594056c)
 
 Otrzymane hashe można przyporządkować do konkretnych haseł z użyciem bruteforce bądź tablic tęczowych.
 
