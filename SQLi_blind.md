@@ -15,11 +15,11 @@ Powtórzenie podanych przykładów wymaga zmiany adresu IP oraz tokenu sesji.
 Cel: uzyskanie wersji bazy danych.
 
 Interakcja z bazą danych pozwala na uzyskanie informacji o istnieniu danego rekordu:
-![SQLI_blind_low_exists](https://github.com/Jswierczynsk/sandbox/assets/133172137/ff2a4b89-a33f-4530-a60e-0ddf0f52e712)
+![image](https://github.com/249064/CBE-BAW-2023/assets/133172137/ca1a1559-0152-49e0-9748-5770d53a623c)
 
 bądź jego braku:
 
-![SQLI_blind_low_missing](https://github.com/Jswierczynsk/sandbox/assets/133172137/1078f6dd-c0e3-4c46-97d6-f20c169d7a5f)
+![image](https://github.com/249064/CBE-BAW-2023/assets/133172137/71369322-56b4-4d9e-9178-49f5f2c04d0a)
 
 Na poziomie niskim zapytanie SQL wykorzystuje surowe dane wejściowe, które są bezpośrednio kontrolowane przez atakującego. Jedyne co trzeba zrobić, to uciec z zapytania, a następnie wykonać dowolne zapytanie SQL.
 
