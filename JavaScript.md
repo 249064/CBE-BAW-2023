@@ -54,7 +54,7 @@ curl -i -s -k -X $'POST' \
 
 
 #### Efekt działania skryptu:
-![image](https://github.com/Jswierczynsk/sandbox/assets/133172137/4b23ce1a-cdee-4433-bb7e-216f234d82ff)
+![image](https://github.com/249064/CBE-BAW-2023/assets/133172137/8ebe504b-dca2-4581-b022-27f4d6329a12)
 
 Tekst został poprawnie przekazany.
 <br/>
